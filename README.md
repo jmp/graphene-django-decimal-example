@@ -1,5 +1,7 @@
 # Graphene-Django Decimal Example
 
+Minimal sample project that demonstrates [#1276](https://github.com/graphql-python/graphene-django/issues/1276).
+
 Installation:
 
     python3 -m venv .venv
